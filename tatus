@@ -1,0 +1,77 @@
+[33mcommit 448fac4390233277eda13d1b8802891db4e9ccbd[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Mon Jan 3 21:59:12 2022 -0300
+
+    Correção no config do gunicorn
+
+[33mcommit 946174043f5c863f7ebb5c7454b7ed333604cc2d[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Tue Oct 19 11:14:41 2021 -0300
+
+    Update README.md
+
+[33mcommit 9f473aabf9b83639c62e870762cef8141d6ecbd2[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Tue Oct 19 11:14:27 2021 -0300
+
+    Create README.md
+
+[33mcommit 6d1ef4353d3b7dbe0174f970046c8c1e25fdc08c[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sun Sep 19 09:32:27 2021 -0300
+
+    Removendo arquivos
+
+[33mcommit a9626184319b4bf88ed351c52deb5c8789fa6f23[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sun Sep 19 09:31:04 2021 -0300
+
+    k8s
+
+[33mcommit 145cd28c5a7492f5ebd5700092d8291db0e9deab[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sun Aug 22 22:42:52 2021 -0300
+
+    Logs
+
+[33mcommit 9b7bae6184f247b2e9cc7bb9c7a22d78a908a8aa[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sun Aug 22 19:35:01 2021 -0300
+
+    Alteração de data
+
+[33mcommit 4ccced586ddb630994f2c42f78c07461af91edfe[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Wed Jun 30 02:08:08 2021 -0300
+
+    Versão final
+
+[33mcommit 042a4c26a16eb636088306fd6998021649029a7e[m
+Author: fabricioveronez@gmail.com <Fabricio Veronez>
+Date:   Sun Jun 27 02:26:23 2021 -0300
+
+    stress
+
+[33mcommit 409f3be7861b19935a9bdb89655a1f212c7036a0[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sat Jun 26 22:25:53 2021 -0300
+
+    Delete Init
+
+[33mcommit ab0519f4f8224cde3e7f30f100b03727380971f3[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sat Jun 26 22:25:40 2021 -0300
+
+    Add files via upload
+
+[33mcommit 8330b9c7b88b0e62c2a384f0bc4521bbc1cfbfee[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sat Jun 26 22:15:39 2021 -0300
+
+    Inicial
+
+[33mcommit ee79953e18ab12563ad260ee1354105d15a892bd[m
+Author: Fabricio Veronez <fabricioveronez@gmail.com>
+Date:   Sat Jun 26 22:06:04 2021 -0300
+
+    Create Init
