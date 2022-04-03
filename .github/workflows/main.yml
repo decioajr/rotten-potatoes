@@ -28,4 +28,3 @@ jobs:
           push: true
           tags: 
             decioajr/rotten-potatoes:latest
-            decioajr/rotten-potatoes:${{ github.run_number }}
