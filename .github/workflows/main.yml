@@ -15,13 +15,13 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Docker Login
-        uses: docker/setup-buildx-action@v1.10.0
+        uses: docker/login-action@v1.14.1
         with:
           username: ${{ secrets.DOCKERHUB_USER }}
           password: ${{ secrets.DOCKERHUB_PWD }}
           
       - name : Docker build and push
-        uses: docker/build-push-action@v2.7.8
+        uses: docker/build-push-action@v2.7.0
         with:
           context: ./src
           file: ./src/Dockerfile
